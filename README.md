@@ -1,16 +1,12 @@
-# LedgeFolio
+# ETH-BEL-LEDGER
 
 ## Short Description
 
-LedgeFolio is a comprehensive web application that integrates Ledger hardware wallets with various Web3 functionalities, including NFT management, cross-chain token bridging, ENS (Ethereum Name Service) domain operations, and cryptocurrency purchases.
-
-## Chart
-
-![Chart](https://silver-autonomous-silverfish-492.mypinata.cloud/ipfs/QmPDQ8T4hFVJdarLfCFkae7hvJddpPttKM8AjZtrDwjfiB)
+ETH-BEL-LEDGEERis a comprehensive web application that integrates Ledger hardware wallets with various Web3 functionalities, including NFT management, cross-chain token bridging, ENS (Ethereum Name Service) domain operations, and cryptocurrency purchases.
 
 ## Detailed Description
 
-LedgeFolio is designed to provide a seamless interface between Ledger hardware wallets and the Web3 ecosystem. It offers the following key features:
+ETH-BEL-LEDGEER is designed to provide a seamless interface between Ledger hardware wallets and the Web3 ecosystem. It offers the following key features:
 
 1. **NFT Gallery**: View and manage NFTs associated with your Ledger wallet address.
 2. **Cross-Chain Bridge**: Transfer tokens between different blockchain networks using Circle's infrastructure.
@@ -18,7 +14,7 @@ LedgeFolio is designed to provide a seamless interface between Ledger hardware w
 4. **Cryptocurrency Purchases**: Buy cryptocurrencies securely using your Ledger wallet.[Coming Soon]
 5. **Multi-Chain Support**: Interact with Ethereum, Base, and Bitcoin networks. [More network soon]
 
-LedgeFolio aims to simplify complex Web3 operations while maintaining the security of a hardware wallet, making it an ideal solution for users who prioritize both functionality and safety in their blockchain interactions.
+ETH-BEL-LEDGER aims to simplify complex Web3 operations while maintaining the security of a hardware wallet, making it an ideal solution for users who prioritize both functionality and safety in their blockchain interactions.
 
 ## How It's Made
 
@@ -53,7 +49,7 @@ LedgeFolio aims to simplify complex Web3 operations while maintaining the securi
 
 ### Scenario 1: Sending Tokens
 
-1. Connect your Ledger device to LedgeFolio.
+1. Connect your Ledger device to ETH-BEL-LEDGER
 2. Navigate to the Send Tokens section.
 3. Select the token you want to send and the destination network.
 4. Enter the recipient's address and the amount you wish to send.
@@ -63,7 +59,7 @@ LedgeFolio aims to simplify complex Web3 operations while maintaining the securi
 
 ### Scenario 2: Viewing and Managing NFTs
 
-1. Connect your Ledger device to LedgeFolio.
+1. Connect your Ledger device to ETH-BEL-LEDGEER
 2. Navigate to the NFT Gallery section.
 3. The application fetches and displays all NFTs associated with your Ledger wallet address.
 4. View detailed information about each NFT, including images, descriptions, and contract addresses.
@@ -79,13 +75,13 @@ LedgeFolio aims to simplify complex Web3 operations while maintaining the securi
 ### Scenario 4: Purchasing and Managing an ENS Domain
 
 1. Connect your Ledger and go to the ENS Manager section.
-2. Search for an available ENS domain (e.g., "karangoraniya.eth").
+2. Search for an available ENS domain .
 3. If available, initiate the purchase process.
 4. Confirm the purchase transaction on your Ledger device.
 5. Once purchased, set up reverse resolution to link your Ethereum address, BTC, SOLANA, DOGECOIN etc.. to the new domain.
 6. Use the ENS Manager to manage your domain, such as setting resolver addresses for different cryptocurrencies.
 
-These scenarios demonstrate the versatility of LedgeFolio, showcasing its ability to handle various Web3 operations securely using a Ledger hardware wallet, from sending tokens and managing NFTs to bridging assets and managing ENS domains.
+These scenarios demonstrate the versatility of ETH-BEL-LEDGEER, showcasing its ability to handle various Web3 operations securely using a Ledger hardware wallet, from sending tokens and managing NFTs to bridging assets and managing ENS domains.
 
 First, run the development server:
 
